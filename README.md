@@ -21,5 +21,6 @@ Automate your instagram brand expansion strategy with this open source tool powe
   These credentials will only be sent to instagram
 
 - Install parcel with `yarn global add parcel` or `npm i -g parcel`
+- Install dependencies with `yarn install` or `npm install`
 - Run `yarn build` or `npm run build`
 - Run `node dist` to start following suitable users on `#gardening`
