@@ -1,0 +1,17 @@
+{
+  "name": "insta-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "build": "parcel build src/index.ts -t node"
+  },
+  "dependencies": {
+    "@types/puppeteer": "^2.0.1",
+    "puppeteer": "^3.0.1"
+  },
+  "devDependencies": {
+    "@types/typescript": "^2.0.0",
+    "typescript": "^3.8.3"
+  }
+}
